@@ -1,0 +1,22 @@
+<?php
+	
+	/**
+	* Output berupa detik lalu, menit lalu, jam lalu, hari lalu, minggu lalu, tahun lalu
+	*/
+
+	return timeHistory(timestamp); 
+
+	/**
+	* Untuk output secara spesifik
+	*/
+
+	return timeHistory(timestamp,true,"format_waktu");
+
+
+	// contoh untuk mendapatkan waktu dalam format menit
+
+	return timeHistory(timestamp,true,"minute");
+
+
+
+?>

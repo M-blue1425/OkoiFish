@@ -1,0 +1,7 @@
+<?php
+
+	function your_custom_function(){
+			
+		return true;
+		
+	}

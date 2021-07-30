@@ -1,0 +1,15 @@
+<?php 
+
+	$mail_to		= "mail-destination@domain.com";
+	$mail_subject	= "Your mail subject";
+	$mail_message	= "Your mail message";
+
+	if(PHPmailer($mail_to, $mail_subject, $mail_message)){
+		
+		return true;
+	
+	}else{
+	
+		return false;
+	
+	}

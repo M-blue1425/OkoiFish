@@ -1,0 +1,11 @@
+<?php
+
+	return Curl(
+		
+		"url",
+		
+		array("header data"), // header data request, let keep null if you want default conf
+		
+	);
+
+?>

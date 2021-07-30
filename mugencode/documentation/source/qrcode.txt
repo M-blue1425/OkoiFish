@@ -1,0 +1,15 @@
+<?php
+
+	$text		= "hello world";
+	$width		= 100; // default if null is 50
+	$height		= 100; // default if null is 50
+	$filename	= "image-qr"; // default if null is QRcode
+	$save_path	= "path saving QR image"; // default if null is in application/cache/qrcode/
+
+	$QR = createQR($text, $width, $height, $filename, $save_path);
+	
+	// show QR image url
+
+	return $QR->url
+	
+	// 

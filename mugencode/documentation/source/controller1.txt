@@ -1,0 +1,8 @@
+<?php
+
+// page permalink setting
+(new system\core\controller)->declarate_space(array(
+	
+	"rewrite-url" => ["amp" => "path_file_to_rewrite.php"],
+
+));

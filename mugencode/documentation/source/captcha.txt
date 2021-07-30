@@ -1,0 +1,12 @@
+<?php
+
+	$data = create_captcha();
+	
+	// display ccaptcha code
+	$_SESSION['captcha_code'];
+	
+	// display captcha image
+	$data->captcha_image_url;
+
+	// display captcha image url
+	$data->captcha_image_url;

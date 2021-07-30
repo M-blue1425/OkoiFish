@@ -1,0 +1,10 @@
+<?php 
+	
+	// hashing string to md5 string
+	return encrypt("string");
+	
+
+	// unhashing from md5 string to normal string 
+	return decrypt("md5 string");
+
+?>

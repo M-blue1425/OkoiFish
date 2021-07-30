@@ -1,0 +1,20 @@
+<?php
+
+class dbconfig{
+
+	protected function information(){
+
+			// return json object
+			return json_decode(json_encode(array(
+
+				"hostname" => "Mysql Host",
+				"username" => "Mysql User",
+				"password" => "Mysql Pass",
+				"database" => "Mysql database name",
+
+			)));
+
+		}
+	}
+
+?>

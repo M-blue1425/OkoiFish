@@ -1,0 +1,16 @@
+<?php
+	
+	// string to int
+	// ex : paramater febuary and expected "2"
+
+	return monthConvert("february");
+
+	// int to string
+	// ex : paramter 2 and expected february
+
+	return monthConvert(2);
+
+	// add second paramater true if u want to get short month name
+	// ex : paramter 2 and expected feb
+
+	return monthConvert(2, true);

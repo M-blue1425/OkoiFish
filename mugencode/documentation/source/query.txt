@@ -1,0 +1,19 @@
+<?php
+	
+	// Build Query
+	$query = database()->Query("Query Command");
+	
+	// Query Fetch Array
+	$query->fetch();
+
+	// Query Row Count
+	$query->rowCount();
+
+	// Query Fetch assoc
+	$query->fetchAssoc();
+
+	// instan QUery
+	foreach($database()->bindQuery("Query Command") as $index => $value);
+	$value->index;
+
+?>

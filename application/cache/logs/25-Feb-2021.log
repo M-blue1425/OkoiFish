@@ -1,0 +1,111 @@
+########################[01:46:18]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 01:46:18------------------------------------------------------------########################[01:48:45]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\defaults.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(205): defaults->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 01:48:45------------------------------------------------------------########################[01:50:53]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 01:50:53------------------------------------------------------------########################[01:50:59]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 01:50:59------------------------------------------------------------########################[02:00:10]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:00:10------------------------------------------------------------########################[02:02:24]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:02:24------------------------------------------------------------########################[02:02:31]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:02:31------------------------------------------------------------########################[02:05:31]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\defaults.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(203): defaults->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:05:31------------------------------------------------------------########################[02:16:08]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:16:08------------------------------------------------------------########################[02:19:05]##########################------------------------------------------------------------Error Msgs : Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1049] Unknown database 'cms_koi'' in C:\xampp\htdocs\CMS\system\core\core_database.php:148
+Stack trace:
+#0 C:\xampp\htdocs\CMS\system\core\core_database.php(148): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 C:\xampp\htdocs\CMS\system\core\core_database.php(84): system\core\DBQuery->PDOconnect()
+#2 C:\xampp\htdocs\CMS\application\helpers\setting.php(5): system\core\database->query('SELECT * FROM d...')
+#3 C:\xampp\htdocs\CMS\application\controllers\index.php(7): setting()
+#4 C:\xampp\htdocs\CMS\system\core\core_controller.php(271): index->home()
+#5 C:\xampp\htdocs\CMS\application\register\config.php(17): controller->declarate_space(Array, true)
+#6 C:\xampp\htdocs\CMS\application\config\autoload.php(214): require_once('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\CMS\index.php(68): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown------------------------------------------------------------Error Type : 1------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\system\core\core_database.php------------------------------------------------------------Error Line : 148------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 02:19:05------------------------------------------------------------########################[10:44:41]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:44:41------------------------------------------------------------########################[10:44:55]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:44:55------------------------------------------------------------########################[10:45:01]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:45:01------------------------------------------------------------########################[10:45:32]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:45:32------------------------------------------------------------########################[10:45:41]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:45:41------------------------------------------------------------########################[10:45:49]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:45:49------------------------------------------------------------########################[10:45:54]##########################------------------------------------------------------------Error Msgs : Undefined index: user------------------------------------------------------------Error Type : 8------------------------------------------------------------Error File : C:\xampp\htdocs\CMS\application\helpers\session.php------------------------------------------------------------Error Line : 3------------------------------------------------------------Error Date : 25-Feb-2021------------------------------------------------------------Error Time : 10:45:54------------------------------------------------------------

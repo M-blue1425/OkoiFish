@@ -1,0 +1,10 @@
+<?php
+
+// page permalink setting
+(new system\core\controller)->declarate_space(array(
+	
+	"rewrite-url-mobile" => ["mobile" => "file_mobile.php"],
+	
+	"rewrite-url-desktop" => ["desktop" => "file_desktop.php"],
+
+));

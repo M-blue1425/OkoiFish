@@ -1,0 +1,13 @@
+<?php
+
+	if(CreateZip("nama file zip", "alamat file yang akan di jadikan zip")){
+	
+		true;
+		
+	}else{
+	
+		false;
+		
+	}
+
+

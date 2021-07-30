@@ -1,0 +1,13 @@
+<?php
+
+	if(ExtractZip("alamat zip yang aklan di extract", "alamat lokasi hasil extract")){
+		
+		true;
+		
+	}else{
+		
+		false;
+		
+	}
+
+?>
